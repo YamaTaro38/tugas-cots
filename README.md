@@ -1,4 +1,3 @@
-```markdown
 # Aplikasi CRUD HansInventory - CodeIgniter 4
 
 ## Deskripsi
